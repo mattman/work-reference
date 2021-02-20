@@ -21,7 +21,10 @@ has_children: false
   - Outcomes?
 
 - Smoking
-  - Ideally calculate this as pack years (https://www.mdcalc.com/pack-years-calculator)
+  - Ideally calculate this as pack years (<https://www.mdcalc.com/pack-years-calculator>)
 - Alcohol use (quantity, frequency, type)
-  - Consider using AUDIT-C to screen (https://www.mdcalc.com/audit-c-alcohol-use)
+  - Consider using AUDIT-C to screen (<https://www.mdcalc.com/audit-c-alcohol-use>)
 - Recreational drug use (quantity, frequency, type, route eg. IVDU)
+
+*[IVDU]: Intravenous Drug Use/User
+*[ACAT]: Aged Care Assessment Team

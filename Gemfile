@@ -18,6 +18,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jemoji"
   gem "jekyll-seo-tag"
+  gem 'jekyll-scholar'
 end
 
 gem "katex", git: "https://github.com/mattman/katex-ruby"

@@ -21,7 +21,7 @@ has_children: false
 - **Level of alertness:** Is the patient conscious? If not, can they be aroused? Can they remain focused on your questions and conversation? What is their attention span?
 - **Speech:** Is it normal in tone, volume and quantity?
 - **Behavior:** Pleasant? Cooperative? Agitated? Appropriate for the particular situation?
-- Awareness of environment/orientation: Do they know where they are and what they are doing here? Do they know who you are? Can they tell you the day, date and year?
+- **Awareness of environment/orientation:** Do they know where they are and what they are doing here? Do they know who you are? Can they tell you the day, date and year?
 - **Mood:** How do they feel? (e.g. "Are you happy, sad, depressed, angry?"). Is it appropriate for their current situation?
 - **Affect:** How do they appear to you? Do they make eye contact? Are they excitable? Does the tone of their voice change? Common assessments include: flat (unchanging throughout), excitable, appropriate.
 - **Thought Process:** This is a description of the way in which they think. Are their comments logical and presented in an organized fashion? If not, how off base are they? Do they tend to stray quickly to related topics? Are their thoughts appropriately linked or simply all over the map?

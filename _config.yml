@@ -1,4 +1,4 @@
-title: Paramed Reference
+title: ParaRef
 email: matt@mattdidcoe.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -61,6 +61,7 @@ color_scheme: matt
 plugins:
   - jekyll-feed
   - jemoji
+  - 'jekyll/scholar'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
