@@ -22,6 +22,8 @@ There is marked difference in airway anatomy which must be considered in Paediat
 
 Paediatric patients have 2x the metabolic rate of adults - this means increased Oxygen requirements (and also means acidosis can become an issue far sooner)
 
+With regards to Cardiac Output (CO), Stroke Volume in particular is fairly fixed due to developmental factors therefore there's significantly more reliance on changing the Heart Rate component of the Cardiac Output formula hence why paediatric patients often very tachy when unwell (not just because they're scared!)
+
 ## Paediatric Assessment Triangle (PAT)
 
 ### Appearance
