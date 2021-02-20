@@ -25,7 +25,8 @@ has_children: false
 
 ### Cardiac Output
 
-$$ \ce{CO = SV * HR} $$ 
+$$ \ce{CO = SV \times HR} $$ 
+
 5-6L/min normal range
 
 #### Factors that affect Cardiac Output (CO)
@@ -49,10 +50,12 @@ $$ \ce{CO = SV * HR} $$
 
 ### Stroke Volume
 
-$$ \ce{SV = CO / HR} $$
+$$ \ce{SV = \frac{CO}{HR} } $$
+
 40-90ml/beat normal range
 
 ### Mean Arterial Pressure (MAP)
 
 $$ \ce{MAP = DBP x 1/3 (SBP - DBP)} $$
+
 80-120mmHg normal range
