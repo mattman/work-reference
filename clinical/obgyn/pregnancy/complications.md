@@ -164,7 +164,38 @@ These patients are also at risk of Post-Partum Haemorrhage and up to 15% will ha
 
 ## Thromboembolic Disease
 
+- Second leading cause of maternal death and morbidity in Australia (2:100 pregnancies)
+- Can occur in all trimesters but more common post-partum
+- Amniotic embolism – enters mother via tears in the placental membrane or uterine vein rupture
+- Includes:
+  - DVT
+  - PE
+- Occurs due to:
+  - Hypercoagulation
+  - Venous statis (blood standing still / very low flow)
+  - Vascular damage
 
 ## Supine Hypotensive Syndrome
 
-## Breech birth
+- Occurs in second half of pregnancy
+- Reduces CO by up to 30% (due to pressure on vasculatur
+- Relieved by left lateral tilt
+
+## Multiple birth
+
+### Complications
+
+- Pre-eclampsia
+- Anaemia
+- Pre-term labour
+- Antepartum haemorrhage
+- Placenta praevia
+
+### Positional issues
+
+In multiple births there's also four ways the babies can present:
+
+- Cephalic / Cephalic (i.e. head down in both): 50%
+- Cephalic / Breech (i.e. head down in one; feet/bottom down in other): 25%
+- Breech / Cephalic (reverse of above but the breech is down which causes issues): 10%
+- Breech / Breech: Bad... 10%

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: APGAR Score
-parent: ObGyn
+parent: Labour
+grand_parent: ObGyn
 has_children: false
 ---
 
