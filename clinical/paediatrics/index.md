@@ -2,6 +2,7 @@
 layout: default
 title: Paediatrics
 has_children: true
+nav_order: 7
 ---
 
 # Paediatrics
@@ -18,7 +19,9 @@ has_children: true
 
 ## Anatomical / Physiological differences
 
-There is marked difference in airway anatomy which must be considered in Paediatric patients
+Larger occiput (comparatively), incomplete skull fusing (hence where fontanels come from)
+
+There is marked difference in airway anatomy which must be considered in Paediatric patients - floppier airway as hasn't fully developed, easier therefore to occlude with positional change in either extension or flexion - must be careful with padding. Padding more likely (given larger occiput) to be under shoulders than head.
 
 Paediatric patients have 2x the metabolic rate of adults - this means increased Oxygen requirements (and also means acidosis can become an issue far sooner)
 
@@ -26,13 +29,40 @@ With regards to Cardiac Output (CO), Stroke Volume in particular is fairly fixed
 
 ## Paediatric Assessment Triangle (PAT)
 
-### Appearance
+![Paediatric Assessment Triangle](/assets/images/pat.png)
 
-TICLS Table here
+### Appearance (TICLS)
+
+ - Tone
+   - Vigorous to limp
+   - Normal children of all ages, including newborns should have muscle tone
+ - Interactiveness
+   - Engaged to unintererested
+ - Consolability
+   - Content to unconsolable
+ - Look or gaze
+   - Gaze follows to glassy eyed stare
+ - Speech or cry
+   - Spontaneous speech to wimper
 
 ### Breathing
 
+- Abnormal airway sounds
+  - Grunting
+  - Stridor
+  - Wheezing
+- Abnormal positioning
+  - Tripod position
+  - Sniffing
+  - Head Tilt (consider Retropharyngeal Abscess, Epiglottitis)
+- Intercostal or neck retractions (or head bobbing in infants)
+- Nasal Flaring
+
 ### Circulation
+
+- Pallor
+- Mottling
+- Cyanosis
 
 ## Management priorities
 

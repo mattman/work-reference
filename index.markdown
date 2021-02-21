@@ -15,7 +15,7 @@ If you have any feedback, find something that's wrong or even if you're just usi
 
 ### Attribution / Copyright
 
-Given this content is sourced from LIFTL and other sources (acknowledgement has been given where available), this site is licensed as [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) in line with the LIFTL terms 
+Given this content is sourced from LIFTL and other sources (acknowledgement has been given where available), this site is licensed as [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) in line with the LIFTL terms. There's also now a series of fantastic diagrams from [The Calgary Guide to Understanding Disease](https://calgaryguide.ucalgary.ca), these are licenced under CC BY-NC-SA but version 3.0 rather than 4.0. Thank you to everyone that has made it possible for me to continue learning and to compile this repository of things I need / want to keep handy.
 
 ### Disclaimer
 

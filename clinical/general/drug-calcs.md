@@ -71,17 +71,17 @@ $$ \begin{aligned} \textit{Weight} &= (8 + 4) \times 2 \\ &= 12 \times 2 \\ &= 2
 
 **Dosing:** For example we're going to deliver IM for analgesic purposes so initial dose is 1mg/kg
 
-$$ 1mg/kg \times 24kg = 24mg \text{ for delivery (IM)} \\ \frac {24} {100} = 0.24\text{ml} $$
+$$ \begin{aligned} 1mg/kg \times 24kg &= 24mg \text{ for delivery (IM)} \\ \frac {24} {100} &= 0.24\text{ml} \end{aligned} $$
 
 **Dosing:** An IV line is established, you also now need to consider dilution of the drug. For our purposes we will dilute 200mg/2ml with 18ml of NaCl 0.9% to achieve a concentration of 10mg/ml in a 20ml syringe (which is of course, labelled appropriately). The dosing regime is 0.1mg/kg.
 
-$$ 0.1mg/kg \times 24kg = 2.4mg \\ \\ \frac {1.8mg} {10mg} = 0.18ml \text{ IV} $$
+$$ \begin{aligned} 0.1mg/kg \times 24kg &= 2.4mg \\ \frac {2.4mg} {10mg} &= 0.24ml \text{ IV} \end{aligned} $$
 
 # Cardiac Arrest
 
 We can use a couple of shortcuts here in an attempt to help with cognitive loading - these are only for Paeds because well, adult doses are conviently all the same
 
-Order of operation : Weight, Joules, Fluids, Adrenaline, Amiodarone, Glucose
+Order : Weight, Joules, Fluids, Adrenaline, Amiodarone, Glucose
 
 ## Weight
 
