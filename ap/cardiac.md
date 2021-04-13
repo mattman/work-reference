@@ -17,11 +17,63 @@ has_children: false
 {:toc}
 </details>
 
-## Anatomy
+# Anatomy
 
 ![Picture of heart including conduction pathway](/assets/images/heart.jpg)
 
-## Useful formula
+- Right side: de-oxygenated blood
+- Left side: oxygenated blood
+
+Remember pulmonary veins carry oxygenated blood from lungs to heart
+
+## Layers of heart
+
+Inside out
+
+- Endocardium
+- Myocardium
+- Epicardium / pericardium
+
+## Coronary blood supply
+
+Coronary arteries
+- Sit epicardially, extend into the myocardium via smaller branches
+- Receive their oxygenated blood supply during the diastole phase of the cycle
+  - This becomes more important in tachycardias where diastole is reduced
+  
+### Right Coronary Artery (RCA)
+
+Right atrium, right ventricle, SA and AV notes
+
+#### Posterior descending artery (PDA)
+
+Right ventricle, posterior left ventricle
+
+### Left Coronary Artery (LCA)
+
+Left ventricle including some septum, possibly some of the right ventricle
+
+#### Left circumflex (LCx)
+
+Lateral left ventricle, left atrium
+
+#### Left anterior descending (LAD)
+
+Septum, anterior left ventricle, apex of the left ventricle
+
+### Auto-regulation
+
+## Cardiomyopathy
+
+### Hypertrophic
+
+### Dilated
+
+### Restrictive
+
+## Cardiomegaly
+
+# Useful formula
 
 ### Cardiac Output
 

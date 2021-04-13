@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Review of Systems
-parent: General
+grand_parent: General
+parent: History Taking
 has_children: false
 ---
 

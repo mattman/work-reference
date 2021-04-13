@@ -17,6 +17,8 @@ nav_order: 7
 {:toc}
 </details>
 
+[PCH Emergency Department Guidelines](https://pch.health.wa.gov.au/For-health-professionals/Emergency-Department-Guidelines)
+
 ## Anatomical / Physiological differences
 
 Larger occiput (comparatively), incomplete skull fusing (hence where fontanels come from)

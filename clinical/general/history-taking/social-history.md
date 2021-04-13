@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Social History
-parent: General
+parent: History Taking
+grand_parent: General
 has_children: false
 ---
 

@@ -80,6 +80,8 @@ Noting that ventilation regime should be 30:2 when using mechanical CPR device (
 
 When intubating, verbalise "Lips -> Teeth -> Tongue -> Epiglottis -> Velecular Space -> Lift epiglottis -> Visualise cords"
 
+- Bougie should be used for first and really, every attempt
+
 ### 6 stages of intubation (6 P's)
 
 1. Pre-oxygenate: NPA/OPA and BVM/NP/High Flow, **at least** 1 minute
@@ -101,6 +103,11 @@ When intubating, verbalise "Lips -> Teeth -> Tongue -> Epiglottis -> Velecular S
 Work down the Vortex ensuring appropriate troubleshooting (which includes DOPES) and if all other options have been exhausted it is imperative that you recognise a Can't Intubate, Can't Oxygenate situation promptly and action as required 
 
 ![Vortex](/assets/images/vortex.jpeg)
+
+### Tips and tricks
+
+- Can lift the entire head if required
+- Rock the trachea
 
 ## DOPES Check
 
